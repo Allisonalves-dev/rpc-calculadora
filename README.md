@@ -12,14 +12,10 @@ Este projeto demonstra a utilização de **RPC (Remote Procedure Call)** com a b
 
 1. Execute o servidor:
 
-```bash
 python server.py
 
 Em outro terminal, execute o cliente:
 
-bash
-Copiar
-Editar
 python cliente.py
 Escolha as opções do menu e interaja com a calculadora.
 
