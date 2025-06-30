@@ -6,7 +6,7 @@ Este projeto demonstra a utilização de **RPC (Remote Procedure Call)** com a b
 
 - `server.py`: servidor XML-RPC com funções matemáticas
 - `cliente.py`: cliente que consome as funções do servidor
-- `exemplos/`: prints da execução
+
 
 ## 🚀 Como Executar
 
@@ -22,8 +22,6 @@ Copiar
 Editar
 python cliente.py
 Escolha as opções do menu e interaja com a calculadora.
-
-📷 Exemplos de execução
 
 
 🧠 Funcionalidades implementadas
